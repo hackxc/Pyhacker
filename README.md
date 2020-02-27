@@ -1,5 +1,5 @@
 
-## 【Pyhacker】Python安全开发课程
+## 【Pyhacker】Python安全开发
 
 ```
 C:\Users\root>python
